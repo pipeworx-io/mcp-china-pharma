@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/china-pharma",
+  "title": "China Pharma",
+  "description": "China Pharma MCP — China-to-Western biotech licensing deals, from SEC filings.",
+  "version": "0.2.0",
+  "websiteUrl": "https://pipeworx.io/packs/china-pharma",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-china-pharma",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/china-pharma/mcp"
+    }
+  ]
+}
