@@ -9,7 +9,7 @@ import { CallToolRequestSchema, ListToolsRequestSchema } from '@modelcontextprot
 import pack from './index.js';
 
 const server = new Server(
-  { name: '@pipeworx/mcp-china-pharma', version: '0.2.0' },
+  { name: '@pipeworx/mcp-china-pharma', version: '0.2.1' },
   { capabilities: { tools: {} } },
 );
 
