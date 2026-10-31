@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-china-pharma",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "China Pharma MCP — China-to-Western biotech licensing deals, from SEC filings.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "china-pharma",
     "gatewaySlug": "china-pharma",
-    "sourceHash": "v1-0988190010ef1cd217224daf5089a1a302c929335499a88960242ed28b2c430b",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-ba652a575b254d2519deaf73b53101890bbd57d42bc8222731e726e9e788949f",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
